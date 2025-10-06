@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "646f8474ff26399a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ba580c7981f9ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Surveys/Release of Acetylcholine.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a05e1d87ad4394c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "df33cf923d191f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cebd45708142b018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c09c91556959aca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "right": {
+    "id": "bfb57594c205d30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc22ba171318f4d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb3f8be965a9bf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Surveys/Release of Acetylcholine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ba24f98b56487a4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb4731416c976cd5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "44f9a791d7b62c2a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fa58ba16ab71f23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Surveys/Release of Acetylcholine.md"
+              }
+            }
+          },
+          {
+            "id": "4eb8f630acb191b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Surveys/Release of Acetylcholine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5ba580c7981f9ad",
+  "lastOpenFiles": [
+    "To Do/Purchasing new camera.md",
+    "To Do/Plan of using animals.md",
+    "To Do/dLight3.0.md",
+    "To Do/Shielding of the Patch Clamp System (Frodo).md",
+    "To Do/Portable FP system.md",
+    "To Do/Annual Progress Review 2022.md",
+    "Proposals and Projects/Rotation_NRU.md",
+    "Proposals and Projects/Primary Research (Ph.D. proposal).md",
+    "Surveys/Synaptic and Volume Transmission.md",
+    "Surveys/Why chose striatum.md"
+  ]
+}

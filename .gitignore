@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow only MD files
+!*.md
+
+# Allow obsidian configuring files
+!.obsidian/*
+!.gitignore
+
+# Allow directorys
+!*/
+
+# Exceptions
+2_Programs/

@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "3b4ba3f48683408c",
+    "type": "split",
+    "children": [
+      {
+        "id": "95800c780bb52558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20c3d572b8b6740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Programs/Programs_Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programs_Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "957bbe9c69bd2bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df61651688306a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f273fb9108d85bed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a39cc68c0000a9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "777874b0d2b9e2f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d86b729ed537c30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c2f85dff9502bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59731cb288b9aed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3cf88343f1d895cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "14a5fadacde697fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c03ea5157fadcc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Programs/Programs_Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Programs_Index"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "hide-folders:Show hidden folders": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8c03ea5157fadcc2",
+  "lastOpenFiles": [
+    "4_Experiments/Junks/Data_2021_12_23.md",
+    "up of Action Potential.md",
+    "4_Experiments/Junks/Data_2023_09_13.md",
+    "4_Experiments/Junks/Data_2022_10_04.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_02_23.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_02_15.md",
+    "0_Frequent Check/Quick Note.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_07_11.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_07_12.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_05_30.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_05_27.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_05_15.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2024_05_11.md",
+    "4_Experiments/Unclassfied/Data_2022_06_13.md",
+    "4_Experiments/Unclassfied/Data_2023_06_13.md",
+    "4_Experiments/Unclassfied/Data_2022_08_05.md",
+    "4_Experiments/Unclassfied/Data_2022_07_27.md",
+    "4_Experiments/Unclassfied/Data_2022_07_26.md",
+    "4_Experiments/Unclassfied/Data_2022_07_20.md",
+    "4_Experiments/Fiber_Photometry/Data_2021_01_21.md",
+    "2_Programs/PG_003/controllers/handlers_REC.py",
+    "2_Programs/PG_003/controllers/handlers_EXP.py",
+    "2_Programs/PG_005/2025_06_11-0012_Gauss.tif",
+    "2_Programs/PG_005/2025_06_11-0012_Conv.tif",
+    "2_Programs/PG_005/2025_06_11-0012_Corr.tif",
+    "2_Programs/PG_005/2025_06_11-0002_Gauss.tif",
+    "2_Programs/PG_005/2025_06_11-0002_Conv.tif",
+    "2_Programs/PG_005/2025_06_11-0002_Corr.tif",
+    "2_Programs/PG_003/views/view_recTagger.py",
+    "2_Programs/PG_003/views/view_recDB.py",
+    "2_Programs/PG_003/metadata-generator-tab1.png",
+    "2_Programs/PG_003/metadata-generator-tab0.png",
+    "4_Experiments/Unclassfied/Data_2025_07_24.md",
+    "4_Experiments/Unclassfied/Data_2025_07_19.md",
+    "1_Research/RN_006_Cre Lox FLEx switches.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2025_06_11.md",
+    "4_Experiments/PRJ_Striatal_ACh_Dynamics/Data_2025_04_03.md",
+    "4_Experiments/Instrumentation_tests/Data_2024_07_05.md",
+    "3_Meeting/Unsorted/RPR2025/imgs/d_5.svg",
+    "3_Meeting/Unsorted/RPR2025/imgs/d_2.svg",
+    "3_Meeting/Unsorted/RPR2025/imgs/SMA_IO_ports.bmp",
+    "3_Meeting/Unsorted/RPR2025/panel_5.svg",
+    "3_Meeting/Unsorted/RPR2025/panel_4.svg",
+    "3_Meeting/Unsorted/RPR2025/panel_3.svg",
+    "3_Meeting/Unsorted/RPR2025/panel_2.svg",
+    "3_Meeting/Unsorted/RPR2025/panel_1.svg"
+  ]
+}

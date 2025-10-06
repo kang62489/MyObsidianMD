@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "latexFontSize",
+    "customized"
+  ],
+  "showViewHeader": true
+}
