@@ -1,0 +1,45 @@
+{
+  "palette": {
+    "seed": 1,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": true
+  },
+  "knownTags": {
+    "python": 1,
+    "img_process": 2,
+    "GUI": 3,
+    "needToBeCheck": 4,
+    "Todo": 5,
+    "dataview": 6,
+    "obsidian": 7,
+    "example_tag01": 8,
+    "git": 9,
+    "Question": 10,
+    "Resolved": 11,
+    "MVC": 12,
+    "pandas": 13,
+    "batch": 14,
+    "excalidraw": 15,
+    "Tag1": 16,
+    "reference": 17,
+    "machine-learning": 18,
+    "ml": 19,
+    "research": 20,
+    "future": 21,
+    "citation-index": 22,
+    "add": 23,
+    "addFigure": 24,
+    "define": 25,
+    "deeplabcut": 26,
+    "cookbook": 27,
+    "DLCAIResidents": 28,
+    "teamDLC": 29,
+    "imaging": 30
+  },
+  "_version": 3
+}

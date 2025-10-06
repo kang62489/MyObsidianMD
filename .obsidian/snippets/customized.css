@@ -1,0 +1,43 @@
+/* Set the font size of MathJax (Equations) */
+.MJX-TEX { font-size:125%; }
+
+/* Change the callout's color and icon */
+.callout[data-callout="idea"]
+ {
+    --callout-color: 255, 196, 8;
+    --callout-icon: lucide-lightbulb;
+}
+
+/* Set the file-type filter to file explorer*/
+.nav-file-title:not([data-path$='.md']) {
+	display: none;
+}
+
+/* .tree-item.nav-folder:not(.is-collapsed):has([data-path$='.md']) {
+    display: block;
+}
+
+.tree-item.nav-folder:not(.is-collapsed) {
+    display: none;
+} */
+
+/* adjust properties label width - default is 9em */
+body {
+    --metadata-label-width: 15em;
+}
+
+/* adjust table view column width */
+.table-view-table td{
+    min-width: 350px;
+}
+
+
+.markdown-preview-view ul > li.task-list-item.is-checked,                       
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]) {
+  text-decoration: none;                                                        
+  color: var(--text-normal);                                                    
+}
+:is(ul > li.task-list-item.is-checked, callout) {
+    text-decoration: none;
+    color: var(--text-normal);
+}

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "95800c780bb52558",
+        "id": "474de552f907853c",
         "type": "tabs",
         "children": [
           {
-            "id": "d20c3d572b8b6740",
+            "id": "8747c897ffac28f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Programs/Programs_Index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Programs_Index"
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "hide-folders:Show hidden folders": false,
-      "obsidian-git:Open Git source control": false
+      "hide-folders:Show hidden folders": false
     }
   },
   "active": "8c03ea5157fadcc2",

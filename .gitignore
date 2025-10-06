@@ -5,7 +5,7 @@
 !*.md
 
 # Allow obsidian configuring files
-!.obsidian/*
+!.obsidian/**
 !.gitignore
 
 # Allow directorys
