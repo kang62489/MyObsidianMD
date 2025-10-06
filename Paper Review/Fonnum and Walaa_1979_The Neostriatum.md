@@ -1,0 +1,7 @@
+p. 1 Y_02
+The ACh turnover in neostriatum and n. accumbens is rapid, which further indicates a considerable cholinergic activity in these region (43). A high density of ACh receptors is also present in neostriatum. They are mostly muscarinic in nature, as measured by quinuclidinyl benzilate (QNB) binding (67, 79), but a sizable population of proteins binding to bungarotoxin is also present (51, 69). It is  at present not known to what extent this binding correspond to the nicotinic receptor.
+
+p. 8 - 9, Table 8, Y_01
+In order to identify transmitter candidates in intrinsic neurons, previous workers have mostly used an indirect approach, e.g. they lesioned afferent fibers and assumed that the transmitter was present in local neurons if no decrease was found in the the transmitter makers. By such means, ACh and GABA were suggested to be present in local neurons  in the neostriatum (45, 47). Recent studies have shown that local application of kainic acid, a glutamate analogue, will destroy local cell bodies and dendrites but will leave afferent axons and terminals intact (32, 53). Application of kainic acid to striatum has shown that most - if not all - cholinergic and GABAergic terminals in the neostriatum are derived from local neurons.
+
+The evidence supports striatal ChIs are intrinsic.

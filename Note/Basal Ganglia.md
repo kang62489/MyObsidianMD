@@ -1,0 +1,13 @@
+# Composition
+- Basal Ganglia
+	- Dorsal striatum
+		- Caudate Nucleus
+		- Putamen
+	- Globus Pallidus
+		- Globus Pallidus (Internal)
+		- Globus Pallidus (External)
+	- Substantia nigra (midbrain)
+	- Subthalamic nucleus (next to SN)
+	- Ventral striatum
+		- Nucleus Accumbens
+		- Olfactory tubercle

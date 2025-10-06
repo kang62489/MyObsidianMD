@@ -1,0 +1,1 @@
+The mean duration of the pause responses is 268.3ms.The mean duration of the pause responses is 268.3ms.Temporal and spatial characteristics of tonically active neurons of the primate's striatum

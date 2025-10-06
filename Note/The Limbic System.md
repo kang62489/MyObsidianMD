@@ -1,0 +1,1 @@
+The brain part involves in behavioral and emotional responses, especially when it comes to behaviors we need for survival (In response to environmental stimuli and then react).

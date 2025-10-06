@@ -1,0 +1,1 @@
+Electrical 跟 chemical synapses 的分法就是看結構，electrical 有 connexons (or gap junctions), synaptical有 synaptic vesicles.

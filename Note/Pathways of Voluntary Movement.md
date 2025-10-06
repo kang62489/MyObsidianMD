@@ -1,0 +1,9 @@
+- Direct Pathway: Increase motor activity (voluntary)
+	- Cerebral Cortex -> Striatum (caudate nucleus and putamen/Dorsal striatum) -> Globus Pallidus Internal -> Thalamus (ventral lateral and ventral anterior) -> Cortex
+	- Glutamate -> GABA -> GABA -> Glutamate
+- Indirect Pathway: Decrease motor activity (unwanted)
+	- Cerebral Cortex -> Striatum (caudate nucleus and putamen/Dorsal striatum) -> Globus Pallidus External -> Subthalamic Nucleus -> Globus Pallidus Internal -> Thalamus (ventral lateral and ventral anterior) -> Cortex
+	- Glutamate -> GABA -> GABA -> Glutamate -> GABA -> Glutamate
+- Nigrostriatal (Dopamine) Pathway: modulation of direct or indirect pathway (amplify)
+	- Cortex ->  Striatum (caudate nucleus and putamen/Dorsal striatum) + (Substantia Nigra (pars compacta) projection/ D1 receptor) -> Globus Pallidus Internal -> Thalamus -> Cortex
+	-  Cerebral Cortex -> Striatum (caudate nucleus and putamen/Dorsal striatum) + (Substantia Nigra (pars compacta) projection/ D2 receptor)-> Globus Pallidus External -> Subthalamic Nucleus -> Globus Pallidus Internal -> Thalamus (ventral lateral and ventral anterior) -> Cortex

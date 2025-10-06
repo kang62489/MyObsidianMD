@@ -1,0 +1,1 @@
+Hyperpolarization-activated current (inward)

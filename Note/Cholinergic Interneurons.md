@@ -1,0 +1,1 @@
+The receptors of Cholinergic interneuron in striatum can refer to **Figure 2 | Receptor Expression on ChIs** in the paper of Lim_2014_Front Synaptic Neurosci (Ref :: Lim_2014_Front Synaptic Neurosci, P9, Figure 2)

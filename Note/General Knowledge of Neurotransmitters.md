@@ -1,0 +1,22 @@
+==(Ref ::  Purves_Neuroscience, P.114, Figure 6.1)==
+Small molecule neurotransmitters 
+- Acetylcholine
+	- Acetylcholine
+- Amino acids
+	- Glutamate
+	- Aspartate
+	- GABA
+	- Glycine
+- Purines
+	- ATP (Adenosine Triphosphate)
+- Biogenic Amines (= Monoamines)
+	- Def of monoamine: monoamine neurotransmitters are neurotransmitters and neuromodulators that contain **one amino group connected to an aromatic ring by a two-carbon chain (such as -CH2-CH2-)**
+	- Def of catecholamine: a catecholamine (/ˌkætəˈkoʊləmiːn/; abbreviated CA) is a monoamine neurotransmitter, an organic compound that has a catechol (benzene with two hydroxyl side groups next to each other) and a side-chain amine.
+	- Catecholamines:
+		- Dopamine
+		- Norepinephrine
+		- Epinephrine
+	- Indoleamine
+		- Serotonin
+	- Imidazoleamine
+		- Histamine
